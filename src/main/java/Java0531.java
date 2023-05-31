@@ -19,7 +19,7 @@ public class Java0531 {
         System.out.println("Fakultät von "+ x+ " ist "+factorial2(x));
 
         //Methode zum Vergleichen zweier Integer-Werte ob mindestens eines der beiden größer ist als 100.
-        System.out.println("Bitte geber zwei Integer-Werte ein um zu vergleichen, ob mindestens einer der beiden größer ist als 100:");
+        System.out.println("Bitte gebe zwei Integer-Werte ein um zu vergleichen, ob mindestens einer der beiden größer ist als 100:");
         System.out.println("erste Zahl:");
         int i=scanner.nextInt();
         System.out.println("zweite Zahl:");
